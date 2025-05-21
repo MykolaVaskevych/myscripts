@@ -1,0 +1,3 @@
+@echo off
+echo Restarting into BIOS...
+shutdown /r /fw /t 0
